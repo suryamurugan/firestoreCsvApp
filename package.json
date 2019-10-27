@@ -1,0 +1,19 @@
+{
+  "name": "firestorecsvapp",
+  "version": "1.0.0",
+  "description": "csv to  firestore collection and docs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryamurugan/firestoreCsvApp.git"
+  },
+  "author": "suryamurugan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryamurugan/firestoreCsvApp/issues"
+  },
+  "homepage": "https://github.com/suryamurugan/firestoreCsvApp#readme"
+}
